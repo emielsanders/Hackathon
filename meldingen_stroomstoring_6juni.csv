@@ -3,11 +3,11 @@ Admiraal Helfrichstraat,Zutphen,Brand,Wegvervoer,,Soort voertuig:Personenauto,20
 Akkerstraat,Zutphen,Brand,Specifiek,Brandgerucht,,2025-06-06 14:16:58
 Baankstraat,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,"Gaslucht,Binnen",2025-06-06 14:18:17
 Bagijnenland,Zutphen,Alarm,Luid/optisch alarm,CO-melder,,2025-06-06 14:21:17
-Beethovenstraat,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,,2025-06-06 14:21:57
+Beethovenstraat,Zutphen,Dienstverlening,Liftopsluiting,2025-06-06 14:21:57
 Berkelsingel,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,"Gaslucht,Binnen",2025-06-06 14:23:04
-Berkenlaan,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,,2025-06-06 14:25:35
+Berkenlaan,Zutphen,Dienstverlening,Liftopsluiting,2025-06-06 14:25:35
 Beukerstraat,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,"Gaslucht,Binnen",2025-06-06 14:26:32
-Boedelhofweg,Eefde,Brand,Gebouw,01 Woning/Woongebouw,Schoorsteen,2025-06-06 14:28:07
+Boedelhofweg,Eefde,Dienstverlening,LiftopsluitingSchoorsteen,2025-06-06 14:28:07
 Boompjeswal,Zutphen,Brand,Buiten,Berm/Ruigte/Bosschage,,2025-06-06 14:31:15
 Braamkamp,Zutphen,Leefmilieu,Water/weer problemen,Stormschade,,2025-06-06 14:32:25
 Brandts Buijsstraat,Zutphen,Brand,Buiten,Berm/Ruigte/Bosschage,,2025-06-06 14:32:57
@@ -19,7 +19,7 @@ Dortherdijk,Eefde,Brand,Buiten,,,2025-06-06 14:41:10
 Emmerikseweg,Zutphen,Brand,Buiten,Berm/Ruigte/Bosschage,,2025-06-06 14:42:27
 Estlandsestraat,Zutphen,Alarm,Autom. brand,Autom. brand OMS,,2025-06-06 14:45:44
 Gerard Doustraat,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,Gaslucht,2025-06-06 14:45:50
-Haydnstraat,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,Flat,2025-06-06 14:46:21
+Haydnstraat,Zutphen,Dienstverlening,LiftopsluitingFlat,2025-06-06 14:46:21
 Hobbemakade,Zutphen,Leefmilieu,Water/weer problemen,Stormschade,,2025-06-06 14:48:40
 IJsselkade,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,Gaslucht,2025-06-06 14:50:18
 Industrieweg,Zutphen,Brand,Buiten,Container,,2025-06-06 14:50:43
@@ -27,11 +27,11 @@ Lange Hofstraat,Zutphen,Leefmilieu,Stank/Hinder. Lucht,,Gaslucht,2025-06-06 14:5
 Markolle,Zutphen,Brand,Specifiek,Nacontrole,,2025-06-06 14:52:26
 Meijerinkstraat,Eefde,Brand,Gebouw,04 Gezondheidszorg,,2025-06-06 14:54:06
 Mettrayweg,Eefde,Alarm,Autom. brand,Autom. brand OMS,,2025-06-06 14:56:11
-Mozartstraat,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,Flat,2025-06-06 15:00:19
+Mozartstraat,Zutphen,Dienstverlening,LiftopsluitingFlat,2025-06-06 15:00:19
 Nieuwstad,Zutphen,Leefmilieu,Water/weer problemen,Wateroverlast,,2025-06-06 15:00:48
-Paulus Potterstraat,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,Schoorsteen,2025-06-06 15:04:23
+Paulus Potterstraat,Zutphen,Dienstverlening,LiftopsluitingSchoorsteen,2025-06-06 15:04:23
 Polsbroek,Zutphen,Brand,Specifiek,Brandgerucht,,2025-06-06 15:06:49
 Rustoordlaan,Eefde,Leefmilieu,Stank/Hinder. Lucht,,"Gaslucht,Binnen",2025-06-06 15:10:14
 Schurinklaan,Eefde,Leefmilieu,Water/weer problemen,Stormschade,,2025-06-06 15:13:33
-Stokebrand,Zutphen,Brand,Gebouw,01 Woning/Woongebouw,,2025-06-06 15:14:02
+Stokebrand,Zutphen,Dienstverlening,Liftopsluiting,2025-06-06 15:14:02
 W. H. Vliegenstraat,Zutphen,Leefmilieu,Water/weer problemen,Wateroverlast,,2025-06-06 15:14:55
